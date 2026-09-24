@@ -7,6 +7,7 @@ For the scripts outlined below there are often versions for different variables,
 The Figures scripts are labelled by their Figure number. 
 
 Analysis scripts:
+
 execute_SEOF_ 
 Script: this piece of code runs the SEOF package on single file input for 500mb geopotential height in the PNA and NAt regions
 
